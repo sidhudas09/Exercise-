@@ -1,0 +1,4 @@
+Learned creating Iot device as source to blob as output in stream analysis, do the following as exercise
+1. write date to cosmos db as output
+2. consume the azure stream analysis data in powerbi.
+3. create alerts and connect to logic apps.
